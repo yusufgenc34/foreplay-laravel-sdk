@@ -1,0 +1,678 @@
+{
+  "metadata": {
+    "success": true,
+    "message": "Your request has been processed successfully.",
+    "status_code": 200,
+    "processed_at": 1778716326601,
+    "cursor": "eyJ0cyI6IDE3Nzg2NTU2MDAwMDAsICJpZCI6ICJvcnR2WDNyRENKSHFoWUhWRXZpYyJ9",
+    "filters": {},
+    "order": "newest",
+    "count": 3
+  },
+  "data": [
+    {
+      "id": "z53cwHaaUnov6A49WoTW",
+      "ad_id": "997846782598437",
+      "name": "Stadium",
+      "brand_id": "s5N67F6UaV5gScE5SN03",
+      "description": "Vi spanar in alla m\u00e5nadens l\u00f6parnyheter, h\u00e4ng med! \n\n#l\u00f6parskor #stadium",
+      "headline": null,
+      "cta_title": "",
+      "categories": [
+        "Sporting Goods"
+      ],
+      "creative_targeting": "fitness enthusiasts",
+      "languages": [
+        "Swedish"
+      ],
+      "market_target": "b2c",
+      "niches": [
+        "Other"
+      ],
+      "product_category": "running footwear",
+      "timestamped_transcription": [
+        {
+          "startTime": 0.0,
+          "endTime": 2.56,
+          "sentence": " F\u00f6lj med in och se alla m\u00e5nadens l\u00f6pande nyheter."
+        },
+        {
+          "startTime": 2.64,
+          "endTime": 4.32,
+          "sentence": " 4 l\u00f6par skor f\u00f6r vardagsrundan"
+        },
+        {
+          "startTime": 4.4,
+          "endTime": 6.32,
+          "sentence": " ASICS Kayano 32"
+        },
+        {
+          "startTime": 6.4,
+          "endTime": 8.48,
+          "sentence": " HOOKAH Bondi 9"
+        },
+        {
+          "startTime": 8.56,
+          "endTime": 10.96,
+          "sentence": " VOMERA 18"
+        },
+        {
+          "startTime": 11.04,
+          "endTime": 13.72,
+          "sentence": " Och PEGASUS 42"
+        },
+        {
+          "startTime": 13.8,
+          "endTime": 16.96,
+          "sentence": " Och en lite snabbare sko fr\u00e5n New Balance i en nyf\u00e4rg"
+        },
+        {
+          "startTime": 17.04,
+          "endTime": 20.04,
+          "sentence": " Vill du ta runda p\u00e5 trailsportet s\u00e5 har vi tv\u00e5 grymma favoriter"
+        },
+        {
+          "startTime": 20.12,
+          "endTime": 22.0,
+          "sentence": " En ska fr\u00e5m Nike"
+        },
+        {
+          "startTime": 22.08,
+          "endTime": 23.8,
+          "sentence": " ock 1 fr\u00e5n Hookah"
+        },
+        {
+          "startTime": 23.88,
+          "endTime": 26.24,
+          "sentence": " Kom till butiken f\u00f6r att f\u00e5 alla v\u00e5ra nya heter"
+        }
+      ],
+      "full_transcription": "F\u00f6lj med in och se alla m\u00e5nadens l\u00f6pande nyheter. 4 l\u00f6par skor f\u00f6r vardagsrundan ASICS Kayano 32 HOOKAH Bondi 9 VOMERA 18 Och PEGASUS 42 Och en lite snabbare sko fr\u00e5n New Balance i en nyf\u00e4rg Vill du ta runda p\u00e5 trailsportet s\u00e5 har vi tv\u00e5 grymma favoriter En ska fr\u00e5m Nike ock 1 fr\u00e5n Hookah Kom till butiken f\u00f6r att f\u00e5 alla v\u00e5ra nya heter",
+      "cards": null,
+      "avatar": "https://r2.foreplay.co/8f2d8ca416686b4780587a2589c8a716a739be3788022cbad828439b76a23be0.jpg",
+      "cta_type": "SHOP_NOW",
+      "display_format": "VIDEO",
+      "emotional_drivers": {
+        "achievement": 6,
+        "anger": 1,
+        "authority": 6,
+        "belonging": 3,
+        "competence": 4,
+        "curiosity": 7,
+        "empowerment": 5,
+        "engagement": 8,
+        "esteem": 4,
+        "fear": 1,
+        "guilt": 1,
+        "nostalgia": 1,
+        "nurturance": 2,
+        "security": 3,
+        "urgency": 5
+      },
+      "link_url": "https://www.stadium.se/search?SearchTerm=Nike+Free+Metcon+7",
+      "live": true,
+      "persona": {
+        "age": "unknown",
+        "gender": "both"
+      },
+      "publisher_platform": [
+        "facebook",
+        "instagram"
+      ],
+      "started_running": 1778655600000,
+      "thumbnail": "https://r2.foreplay.co/1b2213c3060dc5baedae3e9aa5fc0c85b0241d8e18570e013dbac6cfe3bc11c9.jpg",
+      "time_product_was_mentioned": 4.0,
+      "type": "video",
+      "video": "https://r2.foreplay.co/4e575f81cb1556859ecf1b1195c47a6c7c615d485c789a7b353c1aab21a76612.mp4",
+      "image": null,
+      "content_filter": null,
+      "running_duration": {
+        "seconds": 60726,
+        "minutes": 1012,
+        "hours": 16,
+        "days": 0
+      },
+      "video_duration": 26.33
+    },
+    {
+      "id": "vu6vVrvpo1TtV0CVVpd5",
+      "ad_id": "1508384333978820",
+      "name": "Ecom Capital",
+      "brand_id": "4re1hOd04I18u3XJF6y1",
+      "description": "Most people can rattle off the big names.\nApple. Nike. Coca Cola.\nBut they will never know the quietly printing e-commerce brands doing thirty thousand a month. One hundred and fifty thousand a month. Even six hundred thousand a month.\nBrands run by normal people who are not trying to be celebrities. Not trying to build the next billion dollar empire. Just trying to build freedom.\n\nThe truth is you do not need the next world changing invention.\nYou do not need a massive team.\nYou do not need to become the next global icon.\nFor most of our clients, the goal is simple.\nBuild a profitable brand that replaces their income and gives them their time back.\n\nAn extra ten thousand a month.\nThirty thousand a month.\nFifty thousand a month.\nThose numbers flip entire lives upside down.\nThey let people leave a stressful job.\nPay off the mortgage.\nSpend time with their kids instead of sitting in traffic.\nWake up without that knot in the stomach that comes from working for someone else.\n\nThat is what we help people do.\nTake someone with no experience.\nNo product.\nNo branding.\nNo idea where to start.\nAnd guide them step by step until they have a real brand making real money.\n\nA simple business that makes their life better.\nNot a lottery ticket.\nNot a dream.\nA system that has worked for more than two thousand two hundred people and counting.\n\nIf you want to see exactly how it works and how you can build something of your own, click below and watch the free training.\nIt lays out the entire process so you can understand how the whole thing comes together.",
+      "headline": "Learn the Secrets to eCommerce Success - No Guesswork, Just Results",
+      "cta_title": "",
+      "categories": [
+        "Education service"
+      ],
+      "creative_targeting": "aspiring entrepreneurs",
+      "languages": [
+        "English"
+      ],
+      "market_target": "b2c",
+      "niches": [
+        "Other"
+      ],
+      "product_category": "business education training",
+      "timestamped_transcription": [
+        {
+          "startTime": 0.0,
+          "endTime": 1.5,
+          "sentence": " If you wanna start an e-commerce business,"
+        },
+        {
+          "startTime": 1.52,
+          "endTime": 3.42,
+          "sentence": " you don't need to be the next Apple."
+        },
+        {
+          "startTime": 3.44,
+          "endTime": 4.16,
+          "sentence": " You certainly don' t need"
+        },
+        {
+          "startTime": 4.18,
+          "endTime": 5.9,
+          "sentence": " To Be The Next Nike"
+        },
+        {
+          "startTime": 5.92,
+          "endTime": 6.86,
+          "sentence": " Definitely Don'T Need"
+        },
+        {
+          "startTime": 6.88,
+          "endTime": 8.2,
+          "sentence": " The Next Coca Cola"
+        },
+        {
+          "startTime": 8.22,
+          "endTime": 8.58,
+          "sentence": " And"
+        },
+        {
+          "startTime": 8.6,
+          "endTime": 9.04,
+          "sentence": " You DoNt NeeD"
+        },
+        {
+          "startTime": 9.06,
+          "endTime": 10.08,
+          "sentence": " ThE NeXT Gucci"
+        },
+        {
+          "startTime": 10.1,
+          "endTime": 11.04,
+          "sentence": " Or Louis Vuitton"
+        },
+        {
+          "startTime": 11.06,
+          "endTime": 12.1,
+          "sentence": " YOU DONT NEED TO BUILD"
+        },
+        {
+          "startTime": 12.12,
+          "endTime": 13.32,
+          "sentence": " A BILLION DOLLAR BRAND"
+        },
+        {
+          "startTime": 13.34,
+          "endTime": 14.36,
+          "sentence": " BE SUCCESSFUL"
+        },
+        {
+          "startTime": 14.38,
+          "endTime": 16.24,
+          "sentence": " BECAUSE THE TRUTH IS THIS"
+        },
+        {
+          "startTime": 16.26,
+          "endTime": 16.9,
+          "sentence": " THERE ARE BRANDS"
+        },
+        {
+          "startTime": 16.92,
+          "endTime": 17.72,
+          "sentence": " THAT YOU PROBABLY"
+        },
+        {
+          "startTime": 17.74,
+          "endTime": 18.62,
+          "sentence": " HAVE NOT HEARD OF BEEFORE"
+        },
+        {
+          "startTime": 18.64,
+          "endTime": 19.72,
+          "sentence": " QUIETY PULLING IN"
+        },
+        {
+          "startTime": 19.74,
+          "endTime": 21.52,
+          "sentence": " $30K PER MONTH"
+        },
+        {
+          "startTime": 21.54,
+          "endTime": 23.02,
+          "sentence": " 100 PLUS"
+        },
+        {
+          "startTime": 23.04,
+          "endTime": 23.44,
+          "sentence": " THOUSEAND"
+        },
+        {
+          "startTime": 23.46,
+          "endTime": 23.8,
+          "sentence": " DALLARS"
+        },
+        {
+          "startTime": 23.82,
+          "endTime": 24.58,
+          "sentence": " PER MON"
+        },
+        {
+          "startTime": 24.6,
+          "endTime": 24.92,
+          "sentence": " OR OVER"
+        },
+        {
+          "startTime": 24.94,
+          "endTime": 25.38,
+          "sentence": " SIX"
+        },
+        {
+          "startTime": 25.4,
+          "endTime": 25.92,
+          "sentence": " HUNDRA"
+        },
+        {
+          "startTime": 25.94,
+          "endTime": 25.98,
+          "sentence": " AND"
+        },
+        {
+          "startTime": 26.0,
+          "endTime": 26.64,
+          "sentence": " OZ"
+        },
+        {
+          "startTime": 26.66,
+          "endTime": 27.2,
+          "sentence": " per month"
+        },
+        {
+          "startTime": 27.22,
+          "endTime": 27.54,
+          "sentence": " YOUDO"
+        },
+        {
+          "startTime": 27.56,
+          "endTime": 27.64,
+          "sentence": " DON"
+        },
+        {
+          "startTime": 27.66,
+          "endTime": 27.76,
+          "sentence": " E"
+        },
+        {
+          "startTime": 27.76,
+          "endTime": 29.44,
+          "sentence": " You don't need a billion dollar idea."
+        },
+        {
+          "startTime": 29.46,
+          "endTime": 30.96,
+          "sentence": " You just need the right system,"
+        },
+        {
+          "startTime": 30.98,
+          "endTime": 32.56,
+          "sentence": " the right product and certainly"
+        },
+        {
+          "startTime": 32.58,
+          "endTime": 33.68,
+          "sentence": " you'll need to write support"
+        },
+        {
+          "startTime": 33.7,
+          "endTime": 35.3,
+          "sentence": " an that's exactly how everyday people"
+        },
+        {
+          "startTime": 35.32,
+          "endTime": 36.46,
+          "sentence": " with no experience"
+        },
+        {
+          "startTime": 36.48,
+          "endTime": 37.5,
+          "sentence": " know audience"
+        },
+        {
+          "startTime": 37.52,
+          "endTime": 39.54,
+          "sentence": " And know what do you have built"
+        },
+        {
+          "startTime": 39.56,
+          "endTime": 41.26,
+          "sentence": " six or seven big brands"
+        },
+        {
+          "startTime": 41.28,
+          "endTime": 42.18,
+          "sentence": " with us"
+        },
+        {
+          "startTime": 42.2,
+          "endTime": 43.5,
+          "sentence": " so we only build"
+        },
+        {
+          "startTime": 43.52,
+          "endTime": 45.48,
+          "sentence": " The next billion dollar brand"
+        },
+        {
+          "startTime": 45.5,
+          "endTime": 46.8,
+          "sentence": " for most of our clients it started"
+        },
+        {
+          "startTime": 46.82,
+          "endTime": 48.34,
+          "sentence": " by becoming like Apple"
+        },
+        {
+          "startTime": 48.36,
+          "endTime": 49.24,
+          "sentence": " Or Coca Cola"
+        },
+        {
+          "startTime": 49.26,
+          "endTime": 50.4,
+          "sentence": " but it is about creating"
+        },
+        {
+          "startTime": 50.42,
+          "endTime": 52.04,
+          "sentence": " A simple profitable"
+        },
+        {
+          "startTime": 52.06,
+          "endTime": 53.34,
+          "sentence": " e-commerce brand"
+        },
+        {
+          "startTime": 53.36,
+          "endTime": 54.72,
+          "sentence": " That gives them freedom"
+        },
+        {
+          "startTime": 54.74,
+          "endTime": 55.88,
+          "sentence": " An extra ten thousand dollars"
+        },
+        {
+          "startTime": 55.88,
+          "endTime": 57.86,
+          "sentence": " maybe an extra 30K per month,"
+        },
+        {
+          "startTime": 57.88,
+          "endTime": 59.38,
+          "sentence": " maybe $50 thousand a month."
+        },
+        {
+          "startTime": 59.4,
+          "endTime": 61.58,
+          "sentence": " Look that can change everything"
+        },
+        {
+          "startTime": 61.6,
+          "endTime": 62.54,
+          "sentence": " whether that's quitting"
+        },
+        {
+          "startTime": 62.56,
+          "endTime": 64.78,
+          "sentence": " stressful job paying off the mortgage"
+        },
+        {
+          "startTime": 64.8,
+          "endTime": 66.14,
+          "sentence": " or finally having time"
+        },
+        {
+          "startTime": 66.16,
+          "endTime": 67.42,
+          "sentence": " for the things that matter most"
+        },
+        {
+          "startTime": 67.44,
+          "endTime": 69.5,
+          "sentence": " and thats exactly what we help people do"
+        },
+        {
+          "startTime": 69.52,
+          "endTime": 71.94,
+          "sentence": " build profitable e-commerce brands"
+        },
+        {
+          "startTime": 71.96,
+          "endTime": 73.38,
+          "sentence": " from scratch"
+        },
+        {
+          "startTime": 73.4,
+          "endTime": 74.94,
+          "sentence": " And then hold your hand"
+        },
+        {
+          "startTime": 74.96,
+          "endTime": 76.42,
+          "sentence": " every step of way"
+        },
+        {
+          "startTime": 76.44,
+          "endTime": 78.86,
+          "sentence": " if you want to see exactly how this works"
+        },
+        {
+          "startTime": 78.88,
+          "endTime": 79.26,
+          "sentence": " just click"
+        },
+        {
+          "startTime": 79.28,
+          "endTime": 80.5,
+          "sentence": " The link below this video"
+        },
+        {
+          "startTime": 80.52,
+          "endTime": 80.98,
+          "sentence": " And check out"
+        },
+        {
+          "startTime": 81.0,
+          "endTime": 81.9,
+          "sentence": " THE FREE TRAINING"
+        },
+        {
+          "startTime": 81.92,
+          "endTime": 84.1,
+          "sentence": " THAT UNPACKS EVERY STEP FOR YOU"
+        },
+        {
+          "startTime": 84.12,
+          "endTime": 85.42,
+          "sentence": " IN FULL DETAIL"
+        },
+        {
+          "startTime": 85.42,
+          "endTime": 86.26,
+          "sentence": " I'll see you soon."
+        }
+      ],
+      "full_transcription": "If you wanna start an e-commerce business, you don't need to be the next Apple. You certainly don' t need To Be The Next Nike Definitely Don'T Need The Next Coca Cola And You DoNt NeeD ThE NeXT Gucci Or Louis Vuitton YOU DONT NEED TO BUILD A BILLION DOLLAR BRAND BE SUCCESSFUL BECAUSE THE TRUTH IS THIS THERE ARE BRANDS THAT YOU PROBABLY HAVE NOT HEARD OF BEEFORE QUIETY PULLING IN $30K PER MONTH 100 PLUS THOUSEAND DALLARS PER MON OR OVER SIX HUNDRA AND OZ per month YOUDO DON E You don't need a billion dollar idea. You just need the right system, the right product and certainly you'll need to write support an that's exactly how everyday people with no experience know audience And know what do you have built six or seven big brands with us so we only build The next billion dollar brand for most of our clients it started by becoming like Apple Or Coca Cola but it is about creating A simple profitable e-commerce brand That gives them freedom An extra ten thousand dollars maybe an extra 30K per month, maybe $50 thousand a month. Look that can change everything whether that's quitting stressful job paying off the mortgage or finally having time for the things that matter most and thats exactly what we help people do build profitable e-commerce brands from scratch And then hold your hand every step of way if you want to see exactly how this works just click The link below this video And check out THE FREE TRAINING THAT UNPACKS EVERY STEP FOR YOU IN FULL DETAIL I'll see you soon.",
+      "cards": null,
+      "avatar": "https://r2.foreplay.co/7af27dedf9e6a131231ee590e69777c420497e6c1d1d8021d91d2a25625f5443.jpg",
+      "cta_type": "LEARN_MORE",
+      "display_format": "VIDEO",
+      "emotional_drivers": {
+        "achievement": 9,
+        "anger": 2,
+        "authority": 5,
+        "belonging": 3,
+        "competence": 8,
+        "curiosity": 7,
+        "empowerment": 9,
+        "engagement": 6,
+        "esteem": 7,
+        "fear": 3,
+        "guilt": 2,
+        "nostalgia": 2,
+        "nurturance": 4,
+        "security": 8,
+        "urgency": 6
+      },
+      "link_url": "https://www.ecomcapital.com/training/au/home-c1",
+      "live": true,
+      "persona": {
+        "age": "25-45",
+        "gender": "unknown"
+      },
+      "publisher_platform": [
+        "facebook",
+        "instagram",
+        "audience_network",
+        "messenger",
+        "threads"
+      ],
+      "started_running": 1778655600000,
+      "thumbnail": "https://r2.foreplay.co/e7ae0cc82bb8e3d63e1e954ccb3321de63037933c98fe0a5a5ff0c605b4458dd.jpg",
+      "time_product_was_mentioned": -1.0,
+      "type": "video",
+      "video": "https://r2.foreplay.co/f1bd98046b61e92908aa23cfb921234f9f1959804bc90348d5cd4bb18ffce2d4.mp4",
+      "image": null,
+      "content_filter": null,
+      "running_duration": {
+        "seconds": 60726,
+        "minutes": 1012,
+        "hours": 16,
+        "days": 0
+      },
+      "video_duration": 86.23
+    },
+    {
+      "id": "ortvX3rDCJHqhYHVEvic",
+      "ad_id": "4379118319070611",
+      "name": "Nike Football",
+      "brand_id": "BjnA6jIEJAW54pDdWpF2",
+      "description": null,
+      "headline": "",
+      "cta_title": "",
+      "categories": [
+        "Product/service"
+      ],
+      "creative_targeting": "football fans",
+      "languages": [
+        "French"
+      ],
+      "market_target": "b2c",
+      "niches": [
+        "Service Business"
+      ],
+      "product_category": "sports apparel",
+      "timestamped_transcription": null,
+      "full_transcription": null,
+      "cards": [
+        {
+          "cta_text": "Shop Now",
+          "description": "C'est en bleu et rouge que paris projette toute son aura. La tenue domicile 2026/27 du PSG est l\u00e0.",
+          "headline": "Une aura unique",
+          "image": null,
+          "video": "https://r2.foreplay.co/74a8c162879933665a3b7340d7bb98099913f69f0ebed946dd80a11925a97c70.mp4",
+          "link_description": null,
+          "title": "Une aura unique",
+          "type": "video",
+          "timestamped_transcription": [],
+          "full_transcription": null,
+          "video_duration": 66.0
+        },
+        {
+          "cta_text": "Shop Now",
+          "description": "C'est en bleu et rouge que paris projette toute son aura. La tenue domicile 2026/27 du PSG est l\u00e0.",
+          "headline": "Une aura unique",
+          "image": null,
+          "video": "https://r2.foreplay.co/0e4e52e4a2d72285328af39626d21d65b4ec74926ebb96175d5fe008aaef3058.mp4",
+          "link_description": null,
+          "title": "Une aura unique",
+          "type": "video",
+          "timestamped_transcription": [],
+          "full_transcription": null,
+          "video_duration": 66.0
+        },
+        {
+          "cta_text": "Shop Now",
+          "description": "C'est en bleu et rouge que paris projette toute son aura. La tenue domicile 2026/27 du PSG est l\u00e0.",
+          "headline": "Une aura unique",
+          "image": "https://r2.foreplay.co/71c9a0b495d94081d9147a7378599f9c6d6d7eb6075fab45902dc3c539ad1ecc.jpg",
+          "video": null,
+          "link_description": null,
+          "title": "Une aura unique",
+          "type": "image",
+          "timestamped_transcription": [],
+          "full_transcription": null,
+          "video_duration": null
+        }
+      ],
+      "avatar": "https://r2.foreplay.co/7d76dc8171d1592fe9a25cc05a22d6e5c004cf3e42248943cd72831cd4c76d1f.jpg",
+      "cta_type": "SHOP_NOW",
+      "display_format": "DCO",
+      "emotional_drivers": {
+        "achievement": 3,
+        "anger": 1,
+        "authority": 2,
+        "belonging": 8,
+        "competence": 2,
+        "curiosity": 3,
+        "empowerment": 4,
+        "engagement": 7,
+        "esteem": 6,
+        "fear": 1,
+        "guilt": 1,
+        "nostalgia": 2,
+        "nurturance": 1,
+        "security": 1,
+        "urgency": 5
+      },
+      "link_url": "https://www.nike.com/fr/w/paris-saint-germain-aurdi?cp=81137277037_brs_CRVGR4GZZ3WM",
+      "live": true,
+      "persona": {
+        "age": "unknown",
+        "gender": "both"
+      },
+      "publisher_platform": [
+        "instagram"
+      ],
+      "started_running": 1778655600000,
+      "thumbnail": null,
+      "time_product_was_mentioned": 12.0,
+      "type": "dco",
+      "video": null,
+      "image": null,
+      "content_filter": null,
+      "running_duration": {
+        "seconds": 60726,
+        "minutes": 1012,
+        "hours": 16,
+        "days": 0
+      },
+      "video_duration": null
+    }
+  ],
+  "error": null
+}

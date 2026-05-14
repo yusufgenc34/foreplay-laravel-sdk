@@ -1,0 +1,133 @@
+{
+  "metadata": {
+    "success": true,
+    "message": "Your request has been processed successfully.",
+    "status_code": 200,
+    "processed_at": 1778716328427
+  },
+  "data": {
+    "id": "z53cwHaaUnov6A49WoTW",
+    "ad_id": "997846782598437",
+    "name": "Stadium",
+    "brand_id": "s5N67F6UaV5gScE5SN03",
+    "description": "Vi spanar in alla m\u00e5nadens l\u00f6parnyheter, h\u00e4ng med! \n\n#l\u00f6parskor #stadium",
+    "headline": null,
+    "cta_title": "",
+    "categories": [
+      "Sporting Goods"
+    ],
+    "creative_targeting": "fitness enthusiasts",
+    "languages": [
+      "Swedish"
+    ],
+    "market_target": "b2c",
+    "niches": [
+      "Other"
+    ],
+    "product_category": "running footwear",
+    "timestamped_transcription": [
+      {
+        "startTime": 0.0,
+        "endTime": 2.56,
+        "sentence": " F\u00f6lj med in och se alla m\u00e5nadens l\u00f6pande nyheter."
+      },
+      {
+        "startTime": 2.64,
+        "endTime": 4.32,
+        "sentence": " 4 l\u00f6par skor f\u00f6r vardagsrundan"
+      },
+      {
+        "startTime": 4.4,
+        "endTime": 6.32,
+        "sentence": " ASICS Kayano 32"
+      },
+      {
+        "startTime": 6.4,
+        "endTime": 8.48,
+        "sentence": " HOOKAH Bondi 9"
+      },
+      {
+        "startTime": 8.56,
+        "endTime": 10.96,
+        "sentence": " VOMERA 18"
+      },
+      {
+        "startTime": 11.04,
+        "endTime": 13.72,
+        "sentence": " Och PEGASUS 42"
+      },
+      {
+        "startTime": 13.8,
+        "endTime": 16.96,
+        "sentence": " Och en lite snabbare sko fr\u00e5n New Balance i en nyf\u00e4rg"
+      },
+      {
+        "startTime": 17.04,
+        "endTime": 20.04,
+        "sentence": " Vill du ta runda p\u00e5 trailsportet s\u00e5 har vi tv\u00e5 grymma favoriter"
+      },
+      {
+        "startTime": 20.12,
+        "endTime": 22.0,
+        "sentence": " En ska fr\u00e5m Nike"
+      },
+      {
+        "startTime": 22.08,
+        "endTime": 23.8,
+        "sentence": " ock 1 fr\u00e5n Hookah"
+      },
+      {
+        "startTime": 23.88,
+        "endTime": 26.24,
+        "sentence": " Kom till butiken f\u00f6r att f\u00e5 alla v\u00e5ra nya heter"
+      }
+    ],
+    "full_transcription": "F\u00f6lj med in och se alla m\u00e5nadens l\u00f6pande nyheter. 4 l\u00f6par skor f\u00f6r vardagsrundan ASICS Kayano 32 HOOKAH Bondi 9 VOMERA 18 Och PEGASUS 42 Och en lite snabbare sko fr\u00e5n New Balance i en nyf\u00e4rg Vill du ta runda p\u00e5 trailsportet s\u00e5 har vi tv\u00e5 grymma favoriter En ska fr\u00e5m Nike ock 1 fr\u00e5n Hookah Kom till butiken f\u00f6r att f\u00e5 alla v\u00e5ra nya heter",
+    "cards": null,
+    "avatar": "https://r2.foreplay.co/8f2d8ca416686b4780587a2589c8a716a739be3788022cbad828439b76a23be0.jpg",
+    "cta_type": "SHOP_NOW",
+    "display_format": "VIDEO",
+    "emotional_drivers": {
+      "achievement": 6,
+      "anger": 1,
+      "authority": 6,
+      "belonging": 3,
+      "competence": 4,
+      "curiosity": 7,
+      "empowerment": 5,
+      "engagement": 8,
+      "esteem": 4,
+      "fear": 1,
+      "guilt": 1,
+      "nostalgia": 1,
+      "nurturance": 2,
+      "security": 3,
+      "urgency": 5
+    },
+    "link_url": "https://www.stadium.se/search?SearchTerm=Nike+Free+Metcon+7",
+    "live": true,
+    "persona": {
+      "age": "unknown",
+      "gender": "both"
+    },
+    "publisher_platform": [
+      "facebook",
+      "instagram"
+    ],
+    "started_running": 1778655600000,
+    "thumbnail": "https://r2.foreplay.co/1b2213c3060dc5baedae3e9aa5fc0c85b0241d8e18570e013dbac6cfe3bc11c9.jpg",
+    "time_product_was_mentioned": 4.0,
+    "type": "video",
+    "video": "https://r2.foreplay.co/4e575f81cb1556859ecf1b1195c47a6c7c615d485c789a7b353c1aab21a76612.mp4",
+    "image": null,
+    "content_filter": null,
+    "running_duration": {
+      "seconds": 60728,
+      "minutes": 1012,
+      "hours": 16,
+      "days": 0
+    },
+    "video_duration": 26.33
+  },
+  "error": null
+}

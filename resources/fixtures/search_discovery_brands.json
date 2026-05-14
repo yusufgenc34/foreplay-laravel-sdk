@@ -1,0 +1,94 @@
+{
+  "metadata": {
+    "success": true,
+    "message": "Your request has been processed successfully.",
+    "status_code": 200,
+    "processed_at": 1778716327086,
+    "cursor": null,
+    "filters": {},
+    "order": null,
+    "count": 5
+  },
+  "data": [
+    {
+      "id": "hKXxIuzpOZ5moG4urrir",
+      "name": "nike",
+      "description": {
+        "text": ""
+      },
+      "category": null,
+      "niches": [],
+      "verification_status": null,
+      "url": null,
+      "websites": [],
+      "avatar": null,
+      "ad_library_id": null,
+      "is_delegate_page_with_linked_primary_profile": false
+    },
+    {
+      "id": "E88WLRH3nwVyWoF21Jf0",
+      "name": "Nike France",
+      "description": {
+        "text": ""
+      },
+      "category": null,
+      "niches": [],
+      "verification_status": null,
+      "url": null,
+      "websites": [],
+      "avatar": "https://storage.googleapis.com/adison-foreplay.appspot.com/192109873877108/432a479822e83d7418b6d6721134bfc2.jpg",
+      "ad_library_id": "122102204576010720",
+      "is_delegate_page_with_linked_primary_profile": false
+    },
+    {
+      "id": "O71cvq2AQSl1tree62KK",
+      "name": "Nike Sportswear",
+      "description": {
+        "text": "Sport Style Innovation\nwww.nike.com/sportswear"
+      },
+      "category": "Produit/service",
+      "niches": [
+        "Service Business"
+      ],
+      "verification_status": "BLUE_VERIFIED",
+      "url": "https://facebook.com/nikesportswear",
+      "websites": [
+        "http://nike.com/equality"
+      ],
+      "avatar": "https://storage.googleapis.com/adison-foreplay.appspot.com/229636619107648/19912aac130950b3d1d60306b50bffde.jpg",
+      "ad_library_id": "20825389113",
+      "is_delegate_page_with_linked_primary_profile": false
+    },
+    {
+      "id": "Ga2Dafxmqj5vRHmFlgQf",
+      "name": "Nike Studios",
+      "description": {
+        "text": "Group fitness for every body and every goal."
+      },
+      "category": "Brand",
+      "niches": [],
+      "verification_status": "NOT_VERIFIED",
+      "url": "https://facebook.com/nikestudios",
+      "websites": [],
+      "avatar": "https://storage.googleapis.com/adison-foreplay.appspot.com/288485657560685/7083b25a4a7f158815c1b2247c5a2a5a.jpg",
+      "ad_library_id": "100762639747704",
+      "is_delegate_page_with_linked_primary_profile": false
+    },
+    {
+      "id": "ZbV8VQ69CwUHQBzkA1hf",
+      "name": "Nike Communications",
+      "description": {
+        "text": ""
+      },
+      "category": null,
+      "niches": [],
+      "verification_status": null,
+      "url": null,
+      "websites": [],
+      "avatar": "https://r2.foreplay.co/1981604332033295/d740e2e98f4376686943f11530dac382.jpg",
+      "ad_library_id": "102032219840850",
+      "is_delegate_page_with_linked_primary_profile": false
+    }
+  ],
+  "error": null
+}

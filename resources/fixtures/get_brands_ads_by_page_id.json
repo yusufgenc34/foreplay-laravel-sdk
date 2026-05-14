@@ -1,0 +1,334 @@
+{
+  "metadata": {
+    "success": true,
+    "message": "Your request has been processed successfully.",
+    "status_code": 200,
+    "processed_at": 1778716331191,
+    "cursor": "eyJ0cyI6IDE3Nzg1NjkyMDAwMDAsICJpZCI6ICJ5ekVLVUlwOURzQk5yZ3hRODJyOCJ9",
+    "filters": {},
+    "order": "newest",
+    "count": 3
+  },
+  "data": [
+    {
+      "id": "z8WO9wzHFfCR3hX98GbH",
+      "ad_id": "1377220364236780",
+      "name": "Nike",
+      "brand_id": "bYeKOahyGopmGKMHiWit",
+      "description": "Llevate hoy lo que quer\u00e9s y pagalo en 12 cuotas sin inter\u00e9s. Aprovech\u00e1 hasta el 60% en toda la web.",
+      "headline": "Hasta 60% Off - Flash Days",
+      "cta_title": "",
+      "categories": [
+        "Ropa deportiva"
+      ],
+      "creative_targeting": "budget conscious shoppers",
+      "languages": [
+        "Spanish, Castilian"
+      ],
+      "market_target": "b2c",
+      "niches": [
+        "Other"
+      ],
+      "product_category": "ecommerce retail",
+      "timestamped_transcription": null,
+      "full_transcription": null,
+      "cards": null,
+      "avatar": "https://r2.foreplay.co/a995305d6ce6b4c70e88fafecc9309bb2af219cb3d90f1a42ae3b49e77a9095b.jpg",
+      "cta_type": "SHOP_NOW",
+      "display_format": "VIDEO",
+      "emotional_drivers": {
+        "achievement": 2,
+        "anger": 1,
+        "authority": 3,
+        "belonging": 1,
+        "competence": 2,
+        "curiosity": 3,
+        "empowerment": 3,
+        "engagement": 4,
+        "esteem": 2,
+        "fear": 1,
+        "guilt": 1,
+        "nostalgia": 1,
+        "nurturance": 1,
+        "security": 4,
+        "urgency": 9
+      },
+      "link_url": "https://www.nike.com.ar/flash-days",
+      "live": true,
+      "persona": {
+        "age": "unknown",
+        "gender": "both"
+      },
+      "publisher_platform": [
+        "facebook",
+        "instagram",
+        "audience_network",
+        "messenger",
+        "threads"
+      ],
+      "started_running": 1778569200000,
+      "thumbnail": "https://r2.foreplay.co/a700b393b3a0a6ea67f71b8a8702626de24996de44c35d51b903fc2d620be1f9.jpg",
+      "time_product_was_mentioned": -1.0,
+      "type": "video",
+      "video": "https://r2.foreplay.co/d22ff2ce6da66d3fcd1b45bf3a8d3604dff7aa58b4af26664755673903bf8817.mp4",
+      "image": null,
+      "content_filter": null,
+      "running_duration": {
+        "seconds": 147131,
+        "minutes": 2452,
+        "hours": 40,
+        "days": 1
+      },
+      "video_duration": 10.13
+    },
+    {
+      "id": "z5lcBSR5EMSTW6rUGzXK",
+      "ad_id": "4432260153696860",
+      "name": "Nike",
+      "brand_id": "bYeKOahyGopmGKMHiWit",
+      "description": null,
+      "headline": "",
+      "cta_title": "",
+      "categories": [
+        "Sportswear"
+      ],
+      "creative_targeting": "active lifestyle consumers",
+      "languages": [
+        "English"
+      ],
+      "market_target": "b2c",
+      "niches": [
+        "Fashion"
+      ],
+      "product_category": "athletic footwear apparel",
+      "timestamped_transcription": null,
+      "full_transcription": null,
+      "cards": [
+        {
+          "cta_text": "Learn More",
+          "description": "Shop at Nike Store Braintree and get 30% off",
+          "headline": "Find It In-Store Only",
+          "image": "https://r2.foreplay.co/45a415fc9878371bfd93a4084bdacc1d712d3840f685edba99c4bf834156d19f.jpg",
+          "video": null,
+          "link_description": " ",
+          "title": "Find It In-Store Only",
+          "type": "image",
+          "timestamped_transcription": [],
+          "full_transcription": null,
+          "video_duration": null
+        },
+        {
+          "cta_text": "Learn More",
+          "description": "Shop at Nike Store Braintree and get 30% off",
+          "headline": "Find It In-Store Only",
+          "image": "https://r2.foreplay.co/a31b559b6c3fa55491f47e101a6c89764177e6abffb9528253e0a66ddc5cd47a.jpg",
+          "video": null,
+          "link_description": " ",
+          "title": "Find It In-Store Only",
+          "type": "image",
+          "timestamped_transcription": [],
+          "full_transcription": null,
+          "video_duration": null
+        },
+        {
+          "cta_text": "Learn More",
+          "description": "Shop at Nike Store Braintree and get 30% off",
+          "headline": "Find It In-Store Only",
+          "image": "https://r2.foreplay.co/42de336d8f9cee20b21fbd449c3fb4b91fcfe790c150c04d8e3ac2e27166f2c0.jpg",
+          "video": null,
+          "link_description": " ",
+          "title": "Find It In-Store Only",
+          "type": "image",
+          "timestamped_transcription": [],
+          "full_transcription": null,
+          "video_duration": null
+        },
+        {
+          "cta_text": "Learn More",
+          "description": "Shop at Nike Store Braintree and get 30% off",
+          "headline": "Find It In-Store Only",
+          "image": "https://r2.foreplay.co/7973de24584bd799f7e650192860ecbf35af0d8286985e8823f6470102b29ccd.jpg",
+          "video": null,
+          "link_description": " ",
+          "title": "Find It In-Store Only",
+          "type": "image",
+          "timestamped_transcription": [],
+          "full_transcription": null,
+          "video_duration": null
+        }
+      ],
+      "avatar": "https://r2.foreplay.co/a995305d6ce6b4c70e88fafecc9309bb2af219cb3d90f1a42ae3b49e77a9095b.jpg",
+      "cta_type": "LEARN_MORE",
+      "display_format": "DCO",
+      "emotional_drivers": {
+        "achievement": 1,
+        "anger": 1,
+        "authority": 1,
+        "belonging": 1,
+        "competence": 1,
+        "curiosity": 1,
+        "empowerment": 2,
+        "engagement": 2,
+        "esteem": 2,
+        "fear": 1,
+        "guilt": 1,
+        "nostalgia": 1,
+        "nurturance": 1,
+        "security": 1,
+        "urgency": 8
+      },
+      "link_url": "https://www.nike.com/gb/retail/s/nike-braintree?cp=75596353137_soc_CR83BO873OSZ",
+      "live": true,
+      "persona": {
+        "age": "unknown",
+        "gender": "both"
+      },
+      "publisher_platform": [
+        "facebook",
+        "instagram",
+        "audience_network",
+        "messenger",
+        "threads"
+      ],
+      "started_running": 1778569200000,
+      "thumbnail": null,
+      "time_product_was_mentioned": -1.0,
+      "type": "dco",
+      "video": null,
+      "image": null,
+      "content_filter": null,
+      "running_duration": {
+        "seconds": 147131,
+        "minutes": 2452,
+        "hours": 40,
+        "days": 1
+      },
+      "video_duration": null
+    },
+    {
+      "id": "yzEKUIp9DsBNrgxQ82r8",
+      "ad_id": "824755170291857",
+      "name": "Nike",
+      "brand_id": "bYeKOahyGopmGKMHiWit",
+      "description": null,
+      "headline": "",
+      "cta_title": "",
+      "categories": [
+        "Sportswear"
+      ],
+      "creative_targeting": "discount shoppers",
+      "languages": [
+        "French"
+      ],
+      "market_target": "b2c",
+      "niches": [
+        "Fashion"
+      ],
+      "product_category": "athletic footwear",
+      "timestamped_transcription": null,
+      "full_transcription": null,
+      "cards": [
+        {
+          "cta_text": "Learn More",
+          "description": "Achetez en magasin chez Nike Store Gennevilliers et b\u00e9n\u00e9ficiez de -30% d\u00e8s 30\u20ac d\u2019achat",
+          "headline": "En magasin uniquement",
+          "image": "https://r2.foreplay.co/b37510b113de15d5032bd541abc3a90b310064563936a2ea5571e9d41c02713f.jpg",
+          "video": null,
+          "link_description": " ",
+          "title": "En magasin uniquement",
+          "type": "image",
+          "timestamped_transcription": [],
+          "full_transcription": null,
+          "video_duration": null
+        },
+        {
+          "cta_text": "Learn More",
+          "description": "Achetez en magasin chez Nike Store Gennevilliers et b\u00e9n\u00e9ficiez de -30% d\u00e8s 30\u20ac d\u2019achat",
+          "headline": "En magasin uniquement",
+          "image": "https://r2.foreplay.co/e4ac43a58a9e39ae30b342829766cbfac2a54f1e2656f07bd0145f99cc015f69.jpg",
+          "video": null,
+          "link_description": " ",
+          "title": "En magasin uniquement",
+          "type": "image",
+          "timestamped_transcription": [],
+          "full_transcription": null,
+          "video_duration": null
+        },
+        {
+          "cta_text": "Learn More",
+          "description": "Achetez en magasin chez Nike Store Gennevilliers et b\u00e9n\u00e9ficiez de -30% d\u00e8s 30\u20ac d\u2019achat",
+          "headline": "En magasin uniquement",
+          "image": "https://r2.foreplay.co/23d66b92b75f4012c600c3f8142bdc742a75ae68c14b934cad56955f93cc9002.jpg",
+          "video": null,
+          "link_description": " ",
+          "title": "En magasin uniquement",
+          "type": "image",
+          "timestamped_transcription": [],
+          "full_transcription": null,
+          "video_duration": null
+        },
+        {
+          "cta_text": "Learn More",
+          "description": "Achetez en magasin chez Nike Store Gennevilliers et b\u00e9n\u00e9ficiez de -30% d\u00e8s 30\u20ac d\u2019achat",
+          "headline": "En magasin uniquement",
+          "image": "https://r2.foreplay.co/c3d21f101b9c6dc044576e26d22cf7f6e0441c3ff9a5af523b0a1f3dacfd2ae6.jpg",
+          "video": null,
+          "link_description": " ",
+          "title": "En magasin uniquement",
+          "type": "image",
+          "timestamped_transcription": [],
+          "full_transcription": null,
+          "video_duration": null
+        }
+      ],
+      "avatar": "https://r2.foreplay.co/a995305d6ce6b4c70e88fafecc9309bb2af219cb3d90f1a42ae3b49e77a9095b.jpg",
+      "cta_type": "LEARN_MORE",
+      "display_format": "DCO",
+      "emotional_drivers": {
+        "achievement": 1,
+        "anger": 1,
+        "authority": 1,
+        "belonging": 1,
+        "competence": 1,
+        "curiosity": 4,
+        "empowerment": 2,
+        "engagement": 3,
+        "esteem": 2,
+        "fear": 1,
+        "guilt": 1,
+        "nostalgia": 1,
+        "nurturance": 1,
+        "security": 1,
+        "urgency": 8
+      },
+      "link_url": "https://www.nike.com/fr/retail/s/nike-factory-store-gennevilliers?cp=51831245463_soc_CR18DHWIKQKY",
+      "live": true,
+      "persona": {
+        "age": "unknown",
+        "gender": "both"
+      },
+      "publisher_platform": [
+        "facebook",
+        "instagram",
+        "audience_network",
+        "messenger",
+        "threads"
+      ],
+      "started_running": 1778569200000,
+      "thumbnail": null,
+      "time_product_was_mentioned": -1.0,
+      "type": "dco",
+      "video": null,
+      "image": null,
+      "content_filter": null,
+      "running_duration": {
+        "seconds": 147131,
+        "minutes": 2452,
+        "hours": 40,
+        "days": 1
+      },
+      "video_duration": null
+    }
+  ],
+  "error": null
+}

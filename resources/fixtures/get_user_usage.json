@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "success": true,
+    "message": "Your request has been processed successfully.",
+    "status_code": 200,
+    "processed_at": 1778716326144
+  },
+  "data": {
+    "start_date": "2026-04-30T14:25:53",
+    "end_date": "2026-05-30T14:25:53",
+    "total_credits": 10000,
+    "remaining_credits": 9996,
+    "user": {
+      "id": "user_redacted",
+      "email": "you@example.com"
+    }
+  },
+  "error": null
+}

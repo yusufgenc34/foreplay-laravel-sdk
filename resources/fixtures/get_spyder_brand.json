@@ -1,0 +1,24 @@
+{
+  "metadata": {
+    "success": true,
+    "message": "Your request has been processed successfully.",
+    "status_code": 200,
+    "processed_at": 1778717002631
+  },
+  "data": {
+    "id": "hKXxIuzpOZ5moG4urrir",
+    "name": "nike",
+    "description": {
+      "text": ""
+    },
+    "category": null,
+    "niches": [],
+    "verification_status": null,
+    "url": null,
+    "websites": [],
+    "avatar": null,
+    "ad_library_id": null,
+    "is_delegate_page_with_linked_primary_profile": false
+  },
+  "error": null
+}

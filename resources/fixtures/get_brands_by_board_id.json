@@ -1,0 +1,61 @@
+{
+  "metadata": {
+    "success": true,
+    "message": "Your request has been processed successfully.",
+    "status_code": 200,
+    "processed_at": 1778717002630
+  },
+  "data": [
+    {
+      "id": "bYeKOahyGopmGKMHiWit",
+      "name": "Nike",
+      "description": {
+        "text": "Just Do It."
+      },
+      "category": "Sportswear shop",
+      "niches": [
+        "Service Business",
+        "Fashion"
+      ],
+      "verification_status": "BLUE_VERIFIED",
+      "url": "https://facebook.com/nike",
+      "websites": [
+        "http://nike.com/"
+      ],
+      "avatar": "https://storage.googleapis.com/adison-foreplay.appspot.com/274015381051190/c9f5d77a304369dc87e58600a8aa86d1.jpg",
+      "ad_library_id": "15087023444",
+      "is_delegate_page_with_linked_primary_profile": false
+    },
+    {
+      "id": "wVTm2g4LwiIZabUCLj8P",
+      "name": "Brand tda39a3ee5e6b4b0d3255bfef956018",
+      "description": {
+        "text": ""
+      },
+      "category": null,
+      "niches": [],
+      "verification_status": null,
+      "url": null,
+      "websites": [],
+      "avatar": "https://r2.foreplay.co/brands/tda39a3ee5e6b4b0d3255bfef956018/avatar-1744301717900-dv7l92onn1o.png",
+      "ad_library_id": "tda39a3ee5e6b4b0d3255bfef956018",
+      "is_delegate_page_with_linked_primary_profile": false
+    },
+    {
+      "id": "tqyjU2yrN12mkbdSDkuM",
+      "name": "Italic",
+      "description": {
+        "text": ""
+      },
+      "category": null,
+      "niches": [],
+      "verification_status": null,
+      "url": null,
+      "websites": [],
+      "avatar": "https://r2.foreplay.co/brands/m201776497107240/avatar-1744303561884-9eaeoi3vpac.jpeg",
+      "ad_library_id": "m201776497107240",
+      "is_delegate_page_with_linked_primary_profile": false
+    }
+  ],
+  "error": null
+}
