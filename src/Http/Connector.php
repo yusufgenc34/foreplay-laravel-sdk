@@ -8,6 +8,9 @@ use Foreplay\LaravelSdk\Exceptions\EndpointNotFoundException;
 use Foreplay\LaravelSdk\Exceptions\ForeplayException;
 use Foreplay\LaravelSdk\Exceptions\InvalidApiKeyException;
 use Foreplay\LaravelSdk\Exceptions\RateLimitExceededException;
+use GuzzleHttp\HandlerStack;
+use GuzzleHttp\Middleware;
+use Psr\Http\Message\RequestInterface;
 use Saloon\Http\Connector as SaloonConnector;
 use Saloon\Http\Response;
 use Saloon\Traits\Plugins\AcceptsJson;
@@ -47,9 +50,22 @@ final class Connector extends SaloonConnector
      */
     protected function defaultConfig(): array
     {
+        $stack = HandlerStack::create();
+
+        // Foreplay expects repeated single-key params (languages=en&languages=fr).
+        // PHP's http_build_query produces indexed brackets (languages[0]=en) which
+        // Foreplay silently ignores. Strip the numeric index from every bracket pair.
+        $stack->push(Middleware::mapRequest(static function (RequestInterface $request): RequestInterface {
+            $uri = $request->getUri();
+            $query = preg_replace('/%5B\d+%5D=/i', '=', $uri->getQuery()) ?? $uri->getQuery();
+
+            return $request->withUri($uri->withQuery($query));
+        }));
+
         return [
             'timeout' => $this->timeout,
             'connect_timeout' => max(5, (int) ceil($this->timeout / 3)),
+            'handler' => $stack,
         ];
     }
 
